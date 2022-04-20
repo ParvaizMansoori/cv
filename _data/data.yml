@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Parvaiz Mansoori 
     tagline: Financial Analyst 
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: 
@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       - idiom: English
@@ -45,33 +45,33 @@ sidebar:
 career-profile:
     title: Career Summary 
     summary: |
-      A Finance Professional currently learning Data Science and it's applications in finance. Past experience in digital marketing and private asset management
+      A Finance Professional currently learning Data Science and it's applications in finance. Past experience in digital marketing and private asset management. I believe simple, is almost always better.
 education:
     - degree: Bachelor Management Studies 
       university: Mumbai University
-      time: 2011 - 2012
-      details: |
+      time: 2015 - 2018
         Usha Pravin Gandhi College of Management 
+
     - degree: ISC 
-      university: Bristol University
+      university: Lilavatibai Podar Senior Secondary
       time: 2013-2015
-      details: |
-        ISC, Physics Chemistry Math Biology
 experiences:
-    - role: Digital Marketing Executive
-      time: 2019 Jan - April
-      company: Startup Hubs, San Francisco
-      details: |
-        
-    - role: Business Development 
-      time: 2018 October - December 
-      company: CATKing Educare 
-      details: |
-        
     - role: Private Asset Management 
       time: 2019-2021 
       company: Independent 
       details: |
+
+    - role: Digital Marketing Executive
+      time: Jan - April, 2019 
+      company: The Starter Labs
+      details: |
+        
+    - role: Business Development 
+      time: October - December, 2018  
+      company: CATKing Educare 
+      details: |
+        
+
         
 projects:
     title: Projects
@@ -80,23 +80,26 @@ projects:
     assignments:
       - title: Project A 
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: ""
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      I will be listing all of the articles I've written on Medium, here
     papers:
-      - title: Blank 
+      - title: 
         link: "#"
         authors: Parvaiz Mansoori
-        conference: 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
+        level: 50%
+        
+      - name: Excel 
+        level: 50%
+        
+      - name: Jupyter Notebooks
         level: 50%
