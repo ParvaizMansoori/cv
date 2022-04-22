@@ -46,12 +46,12 @@ sidebar:
         link:
      
       - item: Writing
-        link: parvaizmansoori.medium.com
+        link: https://parvaizmansoori.medium.com/
 
 career-profile:
     title: Career Profile 
     summary: |
-      A Finance Professional currently learning Data Science and it's applications in finance. Past experience in digital marketing and managing small portfolios. Interested in Asset Management and Equity Research
+      A Finance Professional currently learning Data Science and it's applications in finance. Past experience in digital marketing and managing small portfolios. Interested in Asset Management and Equity Research. Click on writing to see my articles on Medium.
 education:
     - degree: CFA Level 3 Candidate
       university: CFA Institute
