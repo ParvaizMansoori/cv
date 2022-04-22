@@ -91,12 +91,21 @@ projects:
 
 publications:
     title: Certifications
-    intro: All articles written on Medium or any other online site |
+    intro: All certifications with links |
 
     papers:
-      - title: 
-        link: "#"
-        authors: Parvaiz Mansoori
+      - title: CFA Institute Investment Foundations
+        link: "https://basno.com/n0m25hlr"
+        authors: 
+      - title: Google Data Analytics Professional Certificate
+        link: "https://www.credly.com/badges/d9cbfdf9-1cf4-444f-a24a-418db11a8a21/public_url"
+        authors: 
+      - title: Cleared CFA Level 2 (First Attempt)
+        link: "https://basno.com/rlwgoahq"
+        authors: 
+      - title: Cleared CFA Level 1 (First Attempt)
+        link: "https://basno.com/0oi0828q"
+        authors: 
 
 skills:
     title: Skills &amp; Proficiency
