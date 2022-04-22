@@ -38,14 +38,24 @@ sidebar:
       - idiom: Hindi
         level: Limited Working Proficiency
 
+    Certifications:
+      - item: CFA Institute Investment Foundations
+        link: https://basno.com/n0m25hlr
+
+      - item: Google Data Analytics Professional Certificate
+        link: https://www.credly.com/badges/d9cbfdf9-1cf4-444f-a24a-418db11a8a21/public_url
+      
+      - item: Cleared CFA Level 2 (First Attempt)
+        link: https://basno.com/rlwgoahq
+            
+      - item: Cleared CFA Level 1 (First Attempt)
+        link: https://basno.com/0oi0828q
+
     interests:
-      - item: Climbing
+      - item: Mixed Martial Arts
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Reading and Writing
         link:
 
 career-profile:
