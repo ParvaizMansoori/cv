@@ -3,80 +3,121 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Parvaiz Mansoori 
-    tagline: Financial Analyst, CFA Level 3 Candidate 
+    name: Parvaiz Mansoori
+    tagline: Financial Analyst
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: 
-    phone: 8779632556
+    email: hello@webjeda.com
+    phone: 012 345 6789
     citizenship:
-    website: parvaizmansoori.github.io #do not add http://
-    linkedin: 
-    xing: 
-    github: 
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: 
+    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
         level: Native
 
+      - idiom: French
+        level: Professional
+
       - idiom: Spanish
-        level: Limited Working Proficiency      
-        
-      - idiom: Hindi
-        level: Limited Working Proficiency
+        level: Professional
 
     interests:
-      - item: Mixed Martial Arts
+      - item: Climbing
         link:
 
-      - item: Reading and Writing
+      - item: Snowboarding
+        link:
+
+      - item: Cooking
         link:
 
 career-profile:
-    title: Career Profile 
+    title: Career Profile
     summary: |
-      A Finance Professional currently learning Data Science and it's applications in finance. Past experience in digital marketing and managing small portfolios. Interested in Asset Management and Equity Research
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
-    - degree: CFA Level 3 Candidate
-      university: CFA Institute
-      time: 2019 - Present
-
-    - degree: Bachelor of Management Studies, Usha Pravin Gandhi College
-      university: Mumbai University
-      time: 2015 - 2018 
-
-    - degree: ISC 
-      university: Lilavatibai Podar Senior Secondary
-      time: 2013-2015
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
-    - role: Private Asset Management 
-      time: 2019-2021 
-      company: Independent 
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
       details: |
-
-    - role: Digital Marketing Executive
-      time: Jan - April, 2019 
-      company: The Starter Labs
-      details: The Starter Labs is a startup focused on providing digital marketing services to Mumbai based clients
-      Created content, wrote copy, managed Facebook ads and Facebook pixels, and handled Instagram accounts of various brands|
-        
-    - role: Business Development 
-      time: October - December, 2018  
-      company: CATKing Educare 
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
       details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 projects:
     title: Projects
     intro: >
@@ -130,22 +171,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - name: Python & Django
         level: 98%
 
-      - name: Excel
+      - name: Javascript & jQuery
         level: 98%
 
-      - name: Jupyter Notebooks 
+      - name: Angular
         level: 98%
 
-      - name: Financial Modeling 
+      - name: HTML5 & CSS
         level: 95%
 
-      - name: Communication 
-        level: 98%
+      - name: Ruby on Rails
+        level: 85%
 
-      - name: 
+      - name: Sketch & Photoshop
         level: 60%
 
 footer: >
