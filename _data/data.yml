@@ -86,6 +86,17 @@ projects:
       
       - title: IBM Data Science Capstone 
         link: "#hook"
+        tagline: ""  
+projects:
+    title: Certifications
+    intro: All certifications
+    assignments:
+      - title: Google Data Analytics Capstone 
+        link: "#hook"
+        tagline: ""      
+      
+      - title: IBM Data Science Capstone 
+        link: "#hook"
         tagline: ""      
 
 publications:
