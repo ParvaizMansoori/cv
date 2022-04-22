@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Parvaiz Mansoori 
-    tagline: Financial Analyst 
+    tagline: Financial Analyst, CFA Level 3 Candidate 
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -27,30 +27,50 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
+  
 
     languages:
       - idiom: English
         level: Native
 
       - idiom: Spanish
-        level: Professional
+        level: Limited Working Proficiency      
+        
+      - idiom: Hindi
+        level: Limited Working Proficiency
+        
+    Certifications:
+      - item: CFA Institute Investment Foundations
+        link: https://basno.com/n0m25hlr
+
+      - item: Google Data Analytics Professional Certificate
+        link: https://www.credly.com/badges/d9cbfdf9-1cf4-444f-a24a-418db11a8a21/public_url
+      
+      - item: Cleared CFA Level 2 (First Attempt)
+        link: https://basno.com/rlwgoahq
+            
+      - item: Cleared CFA Level 1 (First Attempt)
+        link: https://basno.com/0oi0828q
 
     interests:
       - item: Mixed Martial Arts
         link:
-    interests:
-      - item: 
+
+      - item: Reading and Writing
         link:
 
 career-profile:
-    title: Career Summary 
+    title: Career Profile 
     summary: |
-      A Finance Professional currently learning Data Science and it's applications in finance. Past experience in digital marketing and private asset management. I believe simple, is almost always better.
+      A Finance Professional currently learning Data Science and it's applications in finance. Past experience in digital marketing and managing small portfolios. Interested in Asset Management and Equity Research
 education:
-    - degree: Bachelor Management Studies 
+    - degree: CFA Level 3 Candidate
+      university: CFA Institute
+      time: 2019 - Present
+
+    - degree: Bachelor of Management Studies, Usha Pravin Gandhi College
       university: Mumbai University
-      time: 2015 - 2018
-        Usha Pravin Gandhi College of Management 
+      time: 2015 - 2018 
 
     - degree: ISC 
       university: Lilavatibai Podar Senior Secondary
@@ -64,7 +84,8 @@ experiences:
     - role: Digital Marketing Executive
       time: Jan - April, 2019 
       company: The Starter Labs
-      details: |
+      details: The Starter Labs is a startup focused on providing digital marketing services to Mumbai based clients
+      Created content, wrote copy, managed Facebook ads and Facebook pixels, and handled Instagram accounts of various brands|
         
     - role: Business Development 
       time: October - December, 2018  
@@ -75,17 +96,21 @@ experiences:
         
 projects:
     title: Projects
-    intro: >
-      I have done projects for my IBM Data Science professional certificate as well as the Google data analytics processional certificate
+    intro: Independent Projects done for the IBM Data Science Professional Certificate as well as the Google Data Analytics Professional Certificate.
     assignments:
-      - title: Project A 
+      - title: Google Data Analytics Capstone 
+        link: "#hook"
+        tagline: ""      
+      
+      - title: IBM Data Science Capstone 
         link: "#hook"
         tagline: ""
+      
 
 publications:
     title: Publications
-    intro: |
-      I will be listing all of the articles I've written on Medium, here
+    intro: All articles written on Medium or any other online site |
+
     papers:
       - title: 
         link: "#"
@@ -96,10 +121,13 @@ skills:
 
     toolset:
       - name: Python
-        level: 50%
+        level: 75%
         
       - name: Excel 
-        level: 50%
+        level: 100%
         
       - name: Jupyter Notebooks
+        level: 100%
+
+      - name: R
         level: 50%
