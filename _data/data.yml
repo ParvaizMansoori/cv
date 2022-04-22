@@ -59,37 +59,21 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Career Profile 
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A Finance Professional currently learning Data Science and it's applications in finance. Past experience in digital marketing and managing small portfolios. Interested in Asset Management and Equity Research
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: CFA Level 3 Candidate
+      university: CFA Institute
+      time: 2019 - 2022
+
+    - degree: Bachelor of Management Studies, Usha Pravin Gandhi College
+      university: Mumbai University
+      time: 2015 - 2018 
+
+    - degree: ISC 
+      university: Lilavatibai Podar Senior Secondary
+      time: 2013-2015
 experiences:
     - role: Lead Developer
       time: 2015 - Present
