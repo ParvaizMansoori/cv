@@ -42,8 +42,11 @@ sidebar:
       - item: Mixed Martial Arts
         link:
 
-      - item: Reading and Writing
+      - item: Reading
         link:
+     
+      - item: Writing
+        link: parvaizmansoori.medium.com
 
 career-profile:
     title: Career Profile 
