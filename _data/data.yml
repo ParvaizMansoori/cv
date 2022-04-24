@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Parvaiz Mansoori
-    tagline: Financial Analyst
+    tagline: Financial Analyst, CFA Level 3 Candidate
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1rCV3Y3tkprqerKL_qLAxYZmxaqhgFW5R/view?usp=sharing
+    pdf: 
 
     languages:
       - idiom: English
@@ -83,15 +83,12 @@ experiences:
       details: |
 projects:
     title: Projects
-    intro: Independent Projects done for the IBM Data Science Professional Certificate as well as the Google Data Analytics Professional Certificate.
+    intro: Capstone as well as individual projects done to learn and apply concepts
     assignments:
-      - title: Google Data Analytics Capstone 
-        link: "#hook"
-        tagline: ""      
-      
+
       - title: IBM Data Science Capstone 
-        link: "#hook"
-        tagline: ""    
+        link: "https://github.com/ParvaizMansoori/ibmdatascienceproject"
+        tagline: "A guided project from IBM teaching basics of data science, part of the IBM Data Science professional certificate. Learned the basics of Python, SQL, Data Visualization and Machine Learning."    
 
 publications:
     title: Certifications
