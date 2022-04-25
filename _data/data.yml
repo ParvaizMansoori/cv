@@ -92,7 +92,7 @@ projects:
 
 publications:
     title: Certifications
-    intro: All certifications with links |
+    intro: Tap to see badge/link |
 
     papers:
       - title: CFA Institute Investment Foundations
@@ -116,10 +116,16 @@ skills:
         level: 75%
         
       - name: Excel 
-        level: 100%
+        level: 90%
         
       - name: Jupyter Notebooks
-        level: 100%
+        level: 70%
 
       - name: R
         level: 50%
+
+      - name: Github
+        level: 50%
+        
+      - name: Writing
+        level: 95%
